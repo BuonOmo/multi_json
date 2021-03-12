@@ -69,6 +69,7 @@ implementations:
 * Ruby 2.5
 * Ruby 2.6
 * Ruby 2.7
+* Ruby 3.0
 * [JRuby][]
 
 If something doesn't work in one of these implementations, it's a bug.
